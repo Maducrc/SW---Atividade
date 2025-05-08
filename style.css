@@ -1,5 +1,23 @@
 h1 {
-    color: #FFA0AA;
+    color: #008a35;
     font-size: 25px;
     font-weight: bold;
 }
+
+h3 {
+    font-weight:bold ;
+    color: #008a35;
+}
+
+.BV {
+    font-weight: bold;
+}
+
+.TM {
+    font-weight: bold;
+} 
+
+.P1 {
+    margin-top: -10px;
+}
+
